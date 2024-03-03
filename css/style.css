@@ -1005,7 +1005,6 @@ a {
             width: 100%;
             display: flex;
             flex-flow: column;
-            flex-direction: column;
         }
 
         .footer h3 {
