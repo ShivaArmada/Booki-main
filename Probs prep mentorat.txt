@@ -1,0 +1,81 @@
+-obj suivant : -@media à faire pour responsive = potentiellement les px en %
+
+---Problèmes techniques :  
+
+
+gros problèmes:
+
+-le header qui n'en fait qu'a sa tête en taille
+
+-afficher plus qu'il faut rogné ou voir avec parent taille ref taille générale (puisque les plus populaires = affect aussi)
+-hebergement à marseille pareil
+
+
+
+petits problèmes:
+
+organisation générale (tout bien emboité au niveau des classes et sections) + verification des balises html
+
+-verifié taille générale par rapport à la maquette figma
+
+-gerer taille icones filtres + i (en svg relatif = parfait comme location icon puisque stretch 100% auto mais pas en balise <i>)
+
+-le i en logo information changement de couleur interne
+
+-les boutons filtres = opposition avec le input no border pour enlever les border de herbergement et acitivité en haut à droite (solution : enlever l'identité de bouton aux deux items haut droits, mettre des b ou p en fonction) la bordure grise est déjà bonne mais par contre enlever le fonds gris des boutons (pas sur la maquette = erreur)
+
+
+prise de note session 18/02/24 :
+
+- remplacer les balises b nom hotel en h3 etc, bien revoir les groupes de div et regroupé 
+
+- mettre les classes après avoir finis le html entier
+
+-logo 15, 19   span supp, padding et border + radius enlever le reste
+
+infogroup + headline decoché + margin bottom + supp span
+
+font size pour les logos
+
+logo i <i class="fa-solid fa-info"></i>
+
+mettre en span width and height
+
+changer ordre ul et bouton dans la liste / retirer ul li a
+
+retirer padding nav mettre uniquement booki à part puis padding sur la ul / laisser padding nav
+
+soutenance voir la place environ 4 mars
+
+
+
+
+gros soucis d'html en footer = trop large (+ que 100%) = la responsive était mauvaise
+
+
+une height uniquement sur les images pas le cadre pour activit height
+ 
+flex 1 enlever
+max height à enlever 
+
+les classes img nest img pour ciblé toutes les img
+
+h3 titres hotels
+
+retirer classes img ciblage
+renommé classe tars card content
+
+h4 = h3
+
+h3 footer en p
+
+nest le ciblage (plus précis) .section .h3
+ 
+ dimanche 03 13h
+
+
+Vous l’avez probablement remarqué, Figma a récemment changé ses conditions d’accès au mode développeur (Dev Mode) en rendant cette fonction payante. Vos étudiants peuvent toujours accéder gratuitement au Dev Mode de Figma en suivant cette procédure :
+Demander la version Pro de Figma gratuitement en se rendant sur ce lien et soumettre son certificat de scolarité OpenClassrooms.
+Une fois la demande approuvée par Figma, créer une équipe (Team) personnelle.
+Se rendre sur la maquette souhaitée. Utiliser la barre d’outils en haut de la page pour dupliquer la maquette. Ensuite, associer cette copie à son équipe personnelle.
+Votre étudiant a de nouveau accès au Dev Mode pour continuer son travail de développement.
