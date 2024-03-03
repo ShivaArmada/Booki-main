@@ -997,7 +997,7 @@ a {
             box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
         }
 
-        
+
         .footer {
             margin: 0;
             padding-top: 15px;
@@ -1007,6 +1007,7 @@ a {
             flex-flow: column;
             flex-direction: column;
         }
+
         .footer h3 {
             font-size: 20px;
         }
@@ -1014,11 +1015,13 @@ a {
         .InfoGroup {
             padding: 0 5%;
         }
+
         .section-activits h3 {
             font-weight: 700;
             font-size: 20px;
-           margin-bottom: 0px;
+            margin-bottom: 0px;
         }
+
         .card-act-mar {
             grid-template-columns: 1fr;
         }
@@ -1063,9 +1066,11 @@ a {
         .cardmain-heber {
             height: auto;
         }
+
         .cardmain-heber h3 {
             font-size: 19px;
         }
+
         .nuit-partir-container-heber {
             font-size: 16px;
         }
