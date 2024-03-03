@@ -1,0 +1,47 @@
+-intro   4 min obj
+
+pragmatisme :
+
+-lecture du scénario
+-prise en compte du code pré établis (cadre hebergement + section populaire + responsive du code tablette section hebergement populaire)
+-figma et la maquette avec ses versions responsives + ressources
+
+cours :
+
+-sololearn
+-openclassroom
+-grafikart en cours (principal)
+
+html est chronologique / css est référant 
+
+leçons :  faire d'abord l'intégralité du html avant de faire le css afin de ne pas alterner de langage en continue
+
+
+-code principal 8 min obj
+
+presentation :
+
+html
+-prise en compte des demandes et habilitation des balises en conséquence
+-implémentation des balises html
+-séparation du code par des commentaires
+-mise en place de la nav, puis de la search bar, puis des filtres, puis du cadre intérieur hebergement, du block activité et enfin du footer
+
+leçons : 
+
+ne pas attribué de class/id à chaque élément de peur d'avoir un élément à mettre en css plutôt qu'un autre
+nest mes éléments plutôt que de les ciblés
+
+css
+
+-utilisation principale du flexbox
+-rajout de media query pour garantir la responsive
+-utilisation variable des max-width en query
+-ne pas ajouté de !important à mes balises = sauf force majeur
+
+
+conclusion :
+
+-bilan des difficultées
+-bilan de ce que j'ai appris
+-content d'avoir finis pour attaquer JS
