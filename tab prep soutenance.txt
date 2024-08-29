@@ -45,3 +45,19 @@ conclusion :
 -bilan des difficultées
 -bilan de ce que j'ai appris
 -content d'avoir finis pour attaquer JS
+
+
+
+-les petites erreurs .conom (bon)
+validation html css w3c  (bon) :
+
+"Use the Message Filtering button below to hide/show particular messages, and to see total counts of errors and warnings.
+Message Filtering
+Document checking completed. No errors or warnings to show."
+
+
+format en lien git hub public (valide mentor)
+police différente- dans populaire (bon)
+utilisation Fontawesome c'est pas figma (bon)
+historique de commit (valide mentor)
+garder un affichage consistant footer sur une colonne (erreur du mentor eval)
